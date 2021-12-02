@@ -19,7 +19,7 @@ make install
 
 AtomsMaya:
 
-Copy the AtomsAvoidance.so lib to /opt/Toolchefs/AtomsMaya/plugins/2020
+Copy the AtomsPluginExample.so lib to /opt/Toolchefs/AtomsMaya/plugins/2020
 
 Set the env variable:
 ```
@@ -28,7 +28,7 @@ ATOMS_PLUGINS_PATH=/opt/Toolchefs/AtomsMaya/plugins/2020
 
 AtomsHoudini:
 
-Copy the AtomsAvoidance.so lib to /opt/Toolchefs/AtomsHoudini/18.5.633/plugins
+Copy the AtomsPluginExample.so lib to /opt/Toolchefs/AtomsHoudini/18.5.633/plugins
 
 Set the env variable:
 ```
